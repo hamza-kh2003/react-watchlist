@@ -86,7 +86,7 @@ npm start
 **Hamza Alkhader**
 
 - GitHub: [@hamza-kh2003](https://github.com/hamza-kh2003)
-- LinkedIn: [Hamza Alkhader](https://www.linkedin.com/in/hamza-alkhader)
+- LinkedIn: [Hamza Alkhader](www.linkedin.com/in/hamza-alkhader-39424527b)
 
 ---
 
